@@ -1,1 +1,1 @@
-This is a To Do list App using Typescript.
+This is a To Do list App using Typescript
